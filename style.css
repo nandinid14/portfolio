@@ -1,0 +1,21 @@
+nav{
+    text-align: right;
+    word-spacing: 10px;
+   
+}
+a{ font-family: fantasy;
+    color: antiquewhite;
+    margin-top: 60px;
+}
+header{ height: 90px;
+    background-color: rosybrown;
+
+}
+section{ 
+     background-color: antiquewhite;
+
+}
+footer{ font-style: italic;
+     background-color: rosybrown;
+
+}
