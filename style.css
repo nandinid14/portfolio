@@ -3,19 +3,19 @@ nav{
     word-spacing: 10px;
    
 }
-a{ font-family: fantasy;
+a{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: antiquewhite;
     margin-top: 60px;
 }
 header{ height: 90px;
-    background-color: rosybrown;
+    background-color: cadetblue;
 
 }
 section{ 
-     background-color: antiquewhite;
+     background-color: lightblue;
 
 }
 footer{ font-style: italic;
-     background-color: rosybrown;
+     background-color: cadetblue;
 
 }
